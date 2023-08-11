@@ -1,0 +1,501 @@
+state,crop_type,crop_yield,land_area,irrigation_type,fertilizer_type,pesticide_type,harvest_date,average_temperature,soil_type
+Manipur,Spices,10327.93,89728.58,Tube well,Organic,Chemical,9/15/2022,-47.6,Laterite
+Himachal Pradesh,Tea,75571.18,56038.55,Rainfed,Inorganic,Chemical,6/30/2022,-12.69,Red
+Haryana,Sorghum,94657.29,806806.66,Sprinkler,Organic,Organic,12/19/2022,-47.79,Desert
+Madhya Pradesh,Vegetables,41871.53,938172.26,Canal,Inorganic,Organic,2/8/2022,-9.13,Desert
+Arunachal Pradesh,Coffee,58571.02,179607.44,Drip,Inorganic,Organic,10/2/2022,36.8,Laterite
+Telangana,Rice,90834.11,800531.83,Sprinkler,Organic,Chemical,4/29/2022,-3.19,Alluvial
+Bihar,Oilseeds,70332.7,619193.72,Rainfed,Inorganic,Organic,4/30/2022,-30.94,Alluvial
+Uttar Pradesh,Rice,17806.08,613525.6,Tube well,Organic,Chemical,9/22/2022,-29.31,Alluvial
+Madhya Pradesh,Spices,17077.96,693529.73,Rainfed,Inorganic,Chemical,12/10/2022,-44.29,Black
+Haryana,Tea,62876.48,821113.66,Canal,Inorganic,Organic,12/29/2022,-2.17,Alluvial
+Gujarat,Spices,68806.74,814076.03,Sprinkler,Inorganic,Organic,4/17/2022,-26.96,Desert
+Chhattisgarh,Coffee,99657.41,272496.17,Sprinkler,Inorganic,Organic,10/4/2022,38.69,Red
+Sikkim,Cotton,81246.6,160692.86,Sprinkler,Organic,Chemical,3/5/2022,0.15,Red
+Arunachal Pradesh,Maize,1470.38,105679.92,Drip,Inorganic,Chemical,3/7/2022,22.48,Desert
+Tripura,Pulses,62473.71,594038.29,Drip,Inorganic,Organic,1/26/2022,-43.65,Alluvial
+Jharkhand,Sorghum,5335.33,513391.05,Drip,Inorganic,Organic,5/31/2022,13.87,Desert
+Haryana,Wheat,55171.96,849457.82,Sprinkler,Inorganic,Organic,6/3/2022,-43.97,Black
+Haryana,Wheat,38340.83,820358.02,Canal,Inorganic,Chemical,12/20/2022,-38.7,Red
+Punjab,Cotton,94526.84,212815.43,Canal,Inorganic,Chemical,12/14/2022,33.51,Alluvial
+Tripura,Tea,9333.71,836040.84,Rainfed,Organic,Organic,1/10/2022,-4.2,Alluvial
+Chhattisgarh,Cotton,51334.07,6549.1,Sprinkler,Organic,Chemical,2/9/2022,-13.62,Red
+Andhra Pradesh,Coffee,97214.65,333289.64,Tube well,Organic,Organic,8/22/2022,20.77,Laterite
+Uttarakhand,Fruits,52859.24,930966.73,Canal,Organic,Chemical,4/29/2022,15.28,Alluvial
+Kerala,Millet,79693.05,238268.44,Tube well,Organic,Chemical,11/21/2022,-17.69,Alluvial
+Karnataka,Rice,97239.98,714239.87,Drip,Inorganic,Chemical,11/24/2022,-2.34,Black
+Karnataka,Pulses,99062.64,545557.53,Drip,Organic,Organic,6/24/2022,18.73,Desert
+Goa,Millet,34330.23,951594.16,Tube well,Inorganic,Chemical,7/11/2022,-6.81,Red
+Gujarat,Tea,97855.86,935731.87,Tube well,Organic,Organic,7/27/2022,-5.14,Alluvial
+Arunachal Pradesh,Pulses,27288.99,535678.84,Drip,Inorganic,Organic,4/27/2022,0.36,Laterite
+Meghalaya,Cotton,71944.42,187408.4,Canal,Inorganic,Organic,8/1/2022,8.8,Alluvial
+Sikkim,Cotton,44352.05,688244.52,Tube well,Organic,Chemical,1/18/2022,27.34,Desert
+Maharashtra,Sorghum,75291.56,864724.03,Tube well,Organic,Chemical,1/20/2022,-36.76,Red
+Jharkhand,Spices,75920.66,867307.94,Rainfed,Organic,Chemical,1/5/2022,32.1,Alluvial
+Haryana,Vegetables,28320.0,252654.17,Sprinkler,Organic,Chemical,1/19/2022,-46.04,Black
+Uttar Pradesh,Spices,87513.75,610058.57,Canal,Organic,Organic,12/28/2022,8.64,Red
+Rajasthan,Wheat,77529.15,660350.53,Canal,Inorganic,Chemical,12/2/2022,-22.58,Desert
+Arunachal Pradesh,Sugarcane,55662.71,222486.15,Drip,Organic,Organic,9/7/2022,-3.89,Laterite
+Andhra Pradesh,Sorghum,37929.73,321996.02,Canal,Organic,Chemical,12/6/2022,43.47,Desert
+Uttarakhand,Tea,61479.92,689543.6,Sprinkler,Organic,Chemical,11/13/2022,-40.46,Desert
+Andhra Pradesh,Tea,40017.08,186370.0,Rainfed,Organic,Organic,2/28/2022,39.34,Alluvial
+West Bengal,Coffee,72299.31,96940.9,Drip,Inorganic,Chemical,6/6/2022,16.76,Black
+Karnataka,Spices,14588.61,41250.36,Tube well,Organic,Organic,4/9/2022,45.15,Laterite
+Kerala,Spices,36826.09,933087.78,Rainfed,Inorganic,Chemical,11/2/2022,29.3,Black
+Assam,Millet,79812.49,29404.5,Drip,Inorganic,Chemical,9/12/2022,28.86,Black
+Assam,Rice,50012.63,948717.38,Drip,Organic,Organic,10/2/2022,-36.49,Desert
+Arunachal Pradesh,Sorghum,82529.28,983519.56,Canal,Inorganic,Chemical,4/1/2022,46.29,Laterite
+Nagaland,Wheat,49751.67,869457.4,Drip,Inorganic,Chemical,8/24/2022,27.28,Laterite
+Chhattisgarh,Spices,79424.81,150560.41,Rainfed,Inorganic,Chemical,12/21/2022,27.82,Black
+Bihar,Pulses,59013.89,348657.61,Rainfed,Organic,Chemical,6/30/2022,-3.79,Red
+Punjab,Wheat,16477.82,859542.09,Sprinkler,Organic,Organic,3/1/2022,-32.77,Alluvial
+Odisha,Sugarcane,20516.74,683734.31,Canal,Inorganic,Chemical,12/3/2022,13.23,Desert
+Uttarakhand,Cotton,84956.25,866462.98,Rainfed,Organic,Organic,2/22/2022,21.14,Desert
+Himachal Pradesh,Millet,98824.92,902950.82,Rainfed,Organic,Chemical,7/15/2022,-3.11,Laterite
+Meghalaya,Vegetables,34462.11,583064.98,Drip,Organic,Organic,9/18/2022,26.49,Laterite
+Odisha,Coffee,61079.44,434830.55,Tube well,Inorganic,Organic,12/29/2022,9.76,Black
+Uttarakhand,Tea,67455.86,844682.97,Sprinkler,Organic,Organic,9/14/2022,16.77,Desert
+Bihar,Oilseeds,66633.4,998970.54,Canal,Organic,Chemical,3/16/2022,39.93,Laterite
+Nagaland,Millet,12398.92,65864.08,Canal,Inorganic,Chemical,4/3/2022,14.71,Desert
+Rajasthan,Pulses,39793.35,966282.55,Tube well,Inorganic,Chemical,5/12/2022,6.75,Black
+Chhattisgarh,Oilseeds,97393.7,485044.82,Tube well,Organic,Organic,6/12/2022,24.62,Black
+Maharashtra,Rice,52547.28,796640.05,Canal,Organic,Chemical,11/2/2022,-0.88,Black
+Arunachal Pradesh,Spices,96959.29,554467.09,Sprinkler,Inorganic,Chemical,2/20/2022,4.61,Red
+Uttar Pradesh,Vegetables,6405.83,302389.91,Rainfed,Organic,Chemical,12/17/2022,27.26,Black
+Himachal Pradesh,Coffee,81419.52,506024.74,Tube well,Organic,Chemical,5/29/2022,-19.88,Desert
+Karnataka,Sorghum,32026.26,322557.67,Drip,Inorganic,Chemical,10/7/2022,34.09,Laterite
+Arunachal Pradesh,Barley,25252.3,569145.36,Tube well,Inorganic,Chemical,10/2/2022,-0.15,Red
+Gujarat,Maize,14272.12,397878.6,Tube well,Inorganic,Organic,9/2/2022,30.35,Desert
+Himachal Pradesh,Rice,99675.58,434727.66,Drip,Organic,Organic,11/22/2022,-12.95,Black
+Goa,Sorghum,57868.63,28038.52,Sprinkler,Organic,Chemical,1/2/2022,29.22,Black
+Sikkim,Barley,46657.8,345992.24,Drip,Organic,Organic,4/5/2022,-18.43,Black
+Arunachal Pradesh,Oilseeds,78129.6,187410.99,Rainfed,Organic,Chemical,7/8/2022,4.07,Desert
+Goa,Maize,19944.92,677833.31,Tube well,Inorganic,Chemical,6/11/2022,-39.35,Laterite
+Tamil Nadu,Rice,31710.12,378593.31,Tube well,Inorganic,Chemical,4/11/2022,-47.75,Laterite
+Chhattisgarh,Pulses,47395.38,669389.02,Sprinkler,Inorganic,Chemical,11/11/2022,-3.64,Alluvial
+Maharashtra,Rice,91431.64,817042.78,Sprinkler,Inorganic,Chemical,3/6/2022,9.25,Laterite
+Kerala,Barley,90044.06,864546.33,Drip,Inorganic,Chemical,8/24/2022,-45.63,Laterite
+Punjab,Wheat,11489.28,272291.88,Tube well,Organic,Organic,8/2/2022,39.19,Alluvial
+Jharkhand,Sugarcane,58610.14,392080.94,Canal,Organic,Chemical,2/10/2022,-21.0,Laterite
+Tamil Nadu,Spices,98518.47,526247.69,Drip,Organic,Organic,11/23/2022,-23.32,Black
+Tamil Nadu,Coffee,89312.71,373384.26,Canal,Inorganic,Organic,4/4/2022,-16.11,Black
+Maharashtra,Barley,66192.66,304589.09,Sprinkler,Inorganic,Organic,10/9/2022,4.11,Desert
+Chhattisgarh,Oilseeds,88601.13,774861.56,Tube well,Inorganic,Chemical,6/25/2022,23.22,Red
+Meghalaya,Spices,64329.9,6385.17,Sprinkler,Inorganic,Organic,7/15/2022,-3.9,Black
+Odisha,Fruits,52750.41,434630.69,Drip,Organic,Organic,12/22/2022,3.75,Desert
+Sikkim,Fruits,64553.23,213913.32,Rainfed,Organic,Organic,8/2/2022,16.02,Alluvial
+Jharkhand,Coffee,23509.54,608332.35,Tube well,Organic,Chemical,6/15/2022,-11.18,Desert
+West Bengal,Vegetables,49807.54,282356.08,Sprinkler,Organic,Organic,3/5/2022,-38.93,Desert
+West Bengal,Spices,6715.82,332312.91,Drip,Inorganic,Chemical,3/27/2022,-14.45,Desert
+Gujarat,Coffee,37467.11,129805.81,Canal,Organic,Chemical,2/2/2022,-19.71,Black
+Odisha,Fruits,10834.66,53619.59,Sprinkler,Inorganic,Chemical,1/6/2022,14.48,Alluvial
+Haryana,Maize,58013.58,326963.43,Sprinkler,Organic,Organic,9/19/2022,49.66,Black
+Himachal Pradesh,Spices,32659.07,536758.98,Tube well,Inorganic,Chemical,1/19/2022,-49.26,Black
+Tamil Nadu,Fruits,92290.57,451251.62,Sprinkler,Organic,Organic,2/4/2022,16.07,Laterite
+Nagaland,Pulses,88795.39,469254.6,Drip,Inorganic,Organic,1/2/2022,-21.42,Desert
+Mizoram,Maize,90672.33,299482.01,Canal,Organic,Chemical,7/30/2022,24.21,Red
+Odisha,Sugarcane,49138.61,893151.35,Rainfed,Organic,Organic,3/20/2022,-0.87,Black
+Chhattisgarh,Spices,17997.33,472511.46,Canal,Organic,Organic,4/4/2022,-37.25,Desert
+Arunachal Pradesh,Barley,44254.55,394027.96,Canal,Organic,Chemical,2/25/2022,-18.14,Black
+Gujarat,Barley,92769.29,703773.18,Canal,Organic,Chemical,5/6/2022,-2.71,Alluvial
+Manipur,Sugarcane,52431.33,67922.57,Sprinkler,Inorganic,Organic,12/9/2022,-20.37,Laterite
+Sikkim,Coffee,46259.16,800153.07,Canal,Inorganic,Organic,12/28/2022,21.5,Laterite
+Maharashtra,Sugarcane,50034.4,450951.8,Sprinkler,Organic,Organic,4/29/2022,48.64,Laterite
+Sikkim,Fruits,97741.52,656138.39,Drip,Inorganic,Organic,12/1/2022,-48.78,Black
+Odisha,Barley,36860.89,158932.26,Tube well,Organic,Chemical,3/10/2022,11.01,Laterite
+Haryana,Tea,66640.52,611866.62,Canal,Inorganic,Chemical,3/10/2022,-27.29,Desert
+Tripura,Coffee,6235.58,256541.04,Rainfed,Organic,Chemical,4/16/2022,29.18,Laterite
+Bihar,Spices,74406.81,478492.99,Tube well,Organic,Organic,4/22/2022,-42.89,Laterite
+Arunachal Pradesh,Rice,16436.23,90415.7,Canal,Organic,Chemical,11/5/2022,-45.29,Red
+Mizoram,Sorghum,57064.71,249326.53,Canal,Organic,Chemical,5/23/2022,-30.39,Desert
+Tamil Nadu,Cotton,91683.25,604735.17,Tube well,Organic,Chemical,6/6/2022,-24.78,Red
+Punjab,Oilseeds,60273.27,972283.85,Tube well,Organic,Organic,12/16/2022,22.99,Black
+Rajasthan,Coffee,6466.62,385764.24,Canal,Organic,Organic,3/11/2022,24.81,Desert
+Tamil Nadu,Millet,76054.53,421262.72,Canal,Inorganic,Chemical,6/26/2022,21.8,Laterite
+Telangana,Sorghum,83725.03,887028.52,Drip,Organic,Chemical,7/8/2022,-18.12,Red
+Tamil Nadu,Wheat,15004.49,373790.45,Sprinkler,Organic,Chemical,7/7/2022,-9.75,Desert
+Tamil Nadu,Tea,28941.33,746337.04,Canal,Inorganic,Organic,10/9/2022,-44.29,Red
+West Bengal,Fruits,12570.0,142790.72,Rainfed,Organic,Chemical,7/14/2022,46.42,Alluvial
+Tripura,Fruits,22680.25,688483.34,Canal,Inorganic,Organic,4/29/2022,-18.16,Alluvial
+Gujarat,Tea,27406.88,148743.07,Canal,Inorganic,Chemical,7/16/2022,-3.32,Red
+Goa,Fruits,93903.92,552124.09,Tube well,Inorganic,Organic,2/15/2022,6.06,Alluvial
+Tamil Nadu,Coffee,34377.08,244660.06,Drip,Organic,Chemical,6/10/2022,-7.76,Black
+Rajasthan,Pulses,67388.2,295126.19,Tube well,Inorganic,Organic,9/3/2022,-37.33,Laterite
+Kerala,Tea,58638.92,658305.13,Canal,Inorganic,Chemical,2/25/2022,30.87,Alluvial
+Haryana,Cotton,24430.14,756875.62,Canal,Organic,Organic,11/11/2022,38.41,Desert
+Uttar Pradesh,Tea,21371.96,240540.1,Rainfed,Organic,Chemical,2/8/2022,40.35,Red
+Telangana,Pulses,34136.75,670572.7,Tube well,Inorganic,Chemical,7/26/2022,-12.42,Red
+Uttarakhand,Pulses,52688.51,989315.51,Rainfed,Organic,Chemical,4/13/2022,10.3,Black
+Punjab,Rice,31244.8,3669.16,Sprinkler,Organic,Organic,12/11/2022,-22.48,Desert
+Odisha,Cotton,38715.32,443740.34,Tube well,Inorganic,Organic,8/13/2022,42.85,Laterite
+Uttar Pradesh,Sorghum,2644.66,195518.28,Sprinkler,Organic,Organic,10/3/2022,-32.89,Red
+Goa,Oilseeds,36891.22,197280.46,Sprinkler,Organic,Organic,6/14/2022,-26.16,Red
+Himachal Pradesh,Sugarcane,93412.74,987768.95,Sprinkler,Organic,Chemical,1/28/2022,38.4,Laterite
+Punjab,Coffee,15591.35,228872.76,Rainfed,Organic,Chemical,2/26/2022,2.17,Desert
+Uttarakhand,Rice,98478.55,18627.45,Rainfed,Inorganic,Organic,11/20/2022,-49.94,Alluvial
+Himachal Pradesh,Vegetables,343.04,481120.07,Drip,Organic,Organic,2/17/2022,35.5,Red
+Himachal Pradesh,Tea,38365.96,378194.74,Tube well,Inorganic,Organic,4/1/2022,38.92,Red
+Tripura,Wheat,11419.89,489559.49,Drip,Organic,Chemical,6/2/2022,4.07,Desert
+Goa,Sorghum,45174.2,668153.47,Drip,Inorganic,Organic,1/5/2022,23.02,Laterite
+Punjab,Barley,57211.13,869358.06,Rainfed,Organic,Organic,8/18/2022,16.03,Black
+Nagaland,Vegetables,71603.16,727719.96,Sprinkler,Inorganic,Organic,5/8/2022,-3.35,Red
+Karnataka,Wheat,88114.03,948078.21,Tube well,Inorganic,Organic,9/5/2022,-43.57,Alluvial
+Bihar,Vegetables,80301.43,431933.65,Rainfed,Organic,Organic,7/20/2022,10.64,Alluvial
+Sikkim,Cotton,31887.62,631776.59,Tube well,Organic,Organic,1/25/2022,37.18,Desert
+Assam,Sugarcane,10702.23,609475.58,Canal,Organic,Organic,4/26/2022,-42.65,Black
+Gujarat,Oilseeds,79296.09,818325.18,Rainfed,Organic,Chemical,10/14/2022,-34.03,Desert
+Bihar,Fruits,72543.8,382241.59,Sprinkler,Inorganic,Organic,11/8/2022,34.18,Black
+Uttarakhand,Maize,52991.6,92990.73,Sprinkler,Organic,Organic,11/16/2022,25.4,Desert
+Rajasthan,Cotton,81214.77,14615.76,Rainfed,Inorganic,Organic,11/1/2022,-42.82,Alluvial
+Chhattisgarh,Sugarcane,87905.89,569067.21,Sprinkler,Organic,Chemical,8/26/2022,-12.73,Black
+Nagaland,Pulses,53219.6,53036.08,Canal,Organic,Organic,3/2/2022,24.9,Desert
+Kerala,Vegetables,80874.13,483737.0,Canal,Inorganic,Organic,11/2/2022,-38.69,Laterite
+Uttar Pradesh,Wheat,1823.76,545859.15,Drip,Inorganic,Organic,6/13/2022,2.31,Desert
+Mizoram,Cotton,70248.19,445090.35,Rainfed,Organic,Organic,6/27/2022,-21.17,Laterite
+Madhya Pradesh,Barley,31203.28,425935.68,Rainfed,Inorganic,Chemical,5/22/2022,3.15,Alluvial
+Maharashtra,Maize,95365.77,472985.46,Canal,Inorganic,Chemical,3/15/2022,4.81,Black
+Odisha,Spices,47041.74,361207.18,Tube well,Inorganic,Organic,11/9/2022,41.47,Red
+Arunachal Pradesh,Fruits,50485.3,599672.56,Sprinkler,Organic,Organic,3/15/2022,40.84,Desert
+Odisha,Pulses,95816.92,822593.81,Rainfed,Inorganic,Organic,12/22/2022,-30.41,Red
+Jharkhand,Maize,47744.26,729360.31,Rainfed,Organic,Organic,11/29/2022,-13.05,Red
+Uttar Pradesh,Fruits,48959.71,403995.27,Rainfed,Inorganic,Organic,11/24/2022,42.54,Desert
+West Bengal,Cotton,81711.27,144428.21,Canal,Inorganic,Organic,4/11/2022,-35.18,Alluvial
+Chhattisgarh,Oilseeds,29072.7,973940.6,Rainfed,Organic,Organic,10/24/2022,33.24,Desert
+Meghalaya,Wheat,46401.7,462993.66,Tube well,Inorganic,Organic,10/25/2022,-21.41,Red
+Manipur,Pulses,82549.63,34022.44,Sprinkler,Inorganic,Chemical,7/22/2022,15.74,Red
+Chhattisgarh,Maize,53017.74,925191.9,Tube well,Inorganic,Chemical,7/11/2022,19.0,Black
+Karnataka,Millet,94564.11,185585.96,Canal,Inorganic,Organic,10/26/2022,-39.76,Red
+Uttar Pradesh,Vegetables,66782.23,677972.95,Rainfed,Inorganic,Organic,12/26/2022,19.43,Red
+Assam,Coffee,27472.44,389225.73,Drip,Inorganic,Chemical,4/30/2022,-37.77,Alluvial
+Uttarakhand,Wheat,67111.82,592376.71,Sprinkler,Organic,Chemical,9/21/2022,-14.78,Alluvial
+Arunachal Pradesh,Wheat,27805.62,40151.72,Rainfed,Inorganic,Organic,12/11/2022,-44.77,Black
+Gujarat,Rice,46306.01,750814.57,Rainfed,Inorganic,Organic,10/5/2022,36.2,Red
+Himachal Pradesh,Sorghum,45296.6,333078.71,Rainfed,Organic,Organic,12/23/2022,-39.46,Desert
+Sikkim,Coffee,48321.82,941564.72,Canal,Inorganic,Organic,3/7/2022,44.2,Desert
+Gujarat,Wheat,56883.17,544629.73,Canal,Organic,Chemical,9/29/2022,-6.96,Desert
+Uttarakhand,Fruits,51385.13,122811.35,Canal,Organic,Organic,3/19/2022,-13.02,Black
+Meghalaya,Wheat,3297.01,547306.0,Tube well,Inorganic,Organic,3/11/2022,-10.59,Red
+Arunachal Pradesh,Barley,34876.97,834644.7,Rainfed,Organic,Organic,9/14/2022,43.12,Laterite
+Karnataka,Sorghum,50037.89,601509.68,Drip,Organic,Organic,8/6/2022,12.25,Alluvial
+Nagaland,Millet,29666.13,947833.09,Tube well,Organic,Chemical,1/10/2022,15.0,Laterite
+West Bengal,Tea,52684.92,440285.32,Sprinkler,Inorganic,Chemical,10/12/2022,31.61,Alluvial
+Odisha,Coffee,79824.29,358745.86,Sprinkler,Inorganic,Organic,11/7/2022,31.47,Laterite
+Odisha,Vegetables,93798.2,700655.29,Sprinkler,Organic,Chemical,6/3/2022,28.87,Red
+Maharashtra,Fruits,59268.87,302233.65,Drip,Inorganic,Organic,5/28/2022,-49.41,Black
+Assam,Sugarcane,89612.04,936674.64,Tube well,Organic,Organic,4/26/2022,-17.49,Red
+West Bengal,Vegetables,47050.17,597266.75,Drip,Organic,Organic,10/17/2022,-4.84,Black
+Rajasthan,Cotton,5548.06,434614.37,Canal,Inorganic,Organic,8/26/2022,40.02,Red
+Kerala,Maize,97213.11,800145.93,Drip,Organic,Organic,5/27/2022,13.89,Desert
+Arunachal Pradesh,Cotton,32624.56,923289.14,Rainfed,Inorganic,Chemical,2/27/2022,-48.53,Alluvial
+Himachal Pradesh,Vegetables,19091.42,4412.63,Canal,Inorganic,Chemical,3/27/2022,8.17,Desert
+Sikkim,Wheat,59295.89,751597.19,Drip,Inorganic,Organic,3/21/2022,49.73,Laterite
+Bihar,Barley,60195.09,821597.49,Rainfed,Inorganic,Organic,6/2/2022,41.06,Red
+Meghalaya,Pulses,90356.08,757083.44,Drip,Inorganic,Chemical,10/1/2022,-3.61,Black
+Nagaland,Pulses,376.82,179375.59,Rainfed,Inorganic,Chemical,3/8/2022,22.94,Red
+Goa,Barley,22399.98,916208.11,Rainfed,Inorganic,Organic,9/3/2022,-16.04,Black
+Goa,Sorghum,91496.13,185440.33,Canal,Organic,Chemical,11/21/2022,-10.72,Laterite
+Chhattisgarh,Barley,3663.02,228394.57,Canal,Organic,Chemical,7/25/2022,17.91,Red
+Bihar,Tea,33799.46,442497.54,Drip,Organic,Chemical,1/19/2022,42.49,Alluvial
+Arunachal Pradesh,Barley,2236.49,239517.76,Tube well,Organic,Organic,5/10/2022,-28.45,Laterite
+Goa,Millet,12824.14,866575.77,Canal,Organic,Chemical,5/16/2022,-19.59,Alluvial
+Andhra Pradesh,Vegetables,67463.91,747094.48,Canal,Organic,Chemical,8/17/2022,2.62,Black
+Tamil Nadu,Wheat,29490.48,339530.8,Drip,Organic,Chemical,2/15/2022,6.32,Red
+Kerala,Wheat,8083.98,317993.23,Drip,Inorganic,Organic,11/23/2022,37.73,Red
+Nagaland,Rice,69334.83,815727.25,Rainfed,Organic,Organic,3/21/2022,22.48,Desert
+Kerala,Rice,39059.06,695095.23,Drip,Organic,Organic,3/15/2022,-8.37,Black
+Andhra Pradesh,Sugarcane,82345.36,108959.1,Rainfed,Inorganic,Organic,2/27/2022,-15.41,Black
+Mizoram,Rice,36034.44,487546.37,Drip,Inorganic,Organic,7/24/2022,-35.93,Laterite
+Haryana,Wheat,85977.99,816086.5,Canal,Inorganic,Chemical,8/26/2022,-48.92,Alluvial
+Assam,Tea,71363.84,784891.64,Rainfed,Inorganic,Chemical,4/7/2022,-17.98,Black
+Telangana,Fruits,81939.84,679438.05,Tube well,Organic,Chemical,4/9/2022,-22.14,Laterite
+Bihar,Coffee,7719.64,143102.59,Tube well,Inorganic,Chemical,6/23/2022,-47.73,Black
+Uttarakhand,Millet,79979.26,703085.39,Rainfed,Inorganic,Organic,6/20/2022,-6.28,Black
+Punjab,Tea,58320.05,339595.35,Canal,Organic,Organic,7/19/2022,8.31,Alluvial
+Uttarakhand,Oilseeds,83473.3,985870.9,Drip,Organic,Chemical,6/28/2022,18.54,Black
+Bihar,Spices,93921.7,748029.44,Drip,Inorganic,Organic,4/9/2022,20.29,Red
+Rajasthan,Tea,37548.38,886903.6,Tube well,Inorganic,Chemical,9/7/2022,26.63,Black
+Arunachal Pradesh,Pulses,20974.52,854763.0,Canal,Inorganic,Organic,12/5/2022,-46.58,Alluvial
+Rajasthan,Millet,57719.77,195027.86,Drip,Inorganic,Organic,10/31/2022,12.41,Laterite
+West Bengal,Sorghum,55051.97,865506.25,Sprinkler,Inorganic,Chemical,12/10/2022,7.32,Black
+Bihar,Cotton,27959.07,84751.86,Sprinkler,Organic,Organic,3/23/2022,-14.45,Laterite
+Tripura,Cotton,11673.87,659276.9,Tube well,Organic,Chemical,12/18/2022,-8.07,Red
+Rajasthan,Sugarcane,11063.13,727989.78,Sprinkler,Inorganic,Chemical,10/3/2022,40.22,Desert
+Punjab,Coffee,81954.3,857959.4,Tube well,Inorganic,Organic,4/26/2022,38.34,Laterite
+Arunachal Pradesh,Coffee,56419.24,317607.71,Drip,Inorganic,Organic,4/29/2022,21.31,Desert
+Gujarat,Tea,53424.57,782658.89,Tube well,Inorganic,Chemical,6/26/2022,5.21,Red
+Sikkim,Maize,80045.28,28508.23,Drip,Organic,Organic,11/21/2022,27.32,Black
+Karnataka,Barley,80031.86,3965.61,Drip,Organic,Chemical,10/13/2022,34.8,Desert
+Karnataka,Coffee,97452.74,774380.73,Sprinkler,Organic,Organic,4/11/2022,-7.3,Black
+Uttarakhand,Maize,9762.77,469937.53,Canal,Inorganic,Organic,9/27/2022,-19.64,Desert
+Rajasthan,Wheat,35068.91,714285.3,Drip,Inorganic,Organic,1/11/2022,40.19,Black
+Telangana,Wheat,91837.1,497894.93,Tube well,Inorganic,Organic,6/28/2022,-38.46,Laterite
+Gujarat,Coffee,82863.37,548939.7,Tube well,Inorganic,Organic,8/22/2022,-48.8,Red
+Meghalaya,Fruits,87545.33,118642.57,Tube well,Organic,Chemical,11/20/2022,8.0,Desert
+Andhra Pradesh,Vegetables,91872.43,461842.25,Sprinkler,Inorganic,Organic,6/7/2022,10.1,Black
+Chhattisgarh,Cotton,20814.1,508124.04,Canal,Inorganic,Chemical,12/23/2022,20.09,Laterite
+Karnataka,Vegetables,5766.28,507913.59,Tube well,Inorganic,Organic,12/14/2022,-39.41,Black
+Bihar,Barley,58056.21,339156.3,Drip,Inorganic,Organic,7/11/2022,-20.55,Desert
+Chhattisgarh,Sugarcane,63885.16,951848.92,Tube well,Organic,Chemical,1/1/2022,-33.88,Alluvial
+Bihar,Coffee,5049.39,442192.62,Canal,Inorganic,Chemical,4/5/2022,-20.93,Red
+Madhya Pradesh,Maize,99140.11,665649.78,Canal,Organic,Chemical,3/27/2022,22.25,Alluvial
+Jharkhand,Wheat,94468.07,202613.38,Tube well,Organic,Organic,10/31/2022,-0.61,Alluvial
+Tamil Nadu,Barley,64421.43,808456.52,Canal,Organic,Organic,4/23/2022,41.52,Laterite
+Mizoram,Coffee,94468.38,486391.66,Rainfed,Inorganic,Organic,5/17/2022,6.67,Black
+Jharkhand,Tea,8464.26,683511.19,Rainfed,Inorganic,Chemical,6/6/2022,-39.18,Alluvial
+Goa,Rice,19655.36,320884.28,Sprinkler,Organic,Organic,5/16/2022,41.33,Red
+Karnataka,Tea,62720.62,561457.11,Drip,Inorganic,Chemical,8/3/2022,-5.77,Laterite
+Odisha,Wheat,72086.83,787842.86,Tube well,Inorganic,Organic,5/11/2022,-7.83,Desert
+Bihar,Sugarcane,13360.52,797216.1,Sprinkler,Organic,Chemical,6/22/2022,6.2,Laterite
+Maharashtra,Sorghum,59680.93,716756.44,Drip,Organic,Chemical,7/10/2022,-39.52,Desert
+Punjab,Coffee,32980.81,868557.3,Rainfed,Organic,Organic,10/13/2022,-19.4,Laterite
+Jharkhand,Sorghum,72203.45,383594.1,Rainfed,Organic,Chemical,4/10/2022,-9.5,Black
+Kerala,Spices,52997.26,780386.39,Rainfed,Organic,Chemical,6/11/2022,36.2,Black
+Kerala,Coffee,34202.97,574594.98,Tube well,Inorganic,Organic,9/16/2022,-34.31,Laterite
+Chhattisgarh,Barley,85572.72,510714.66,Tube well,Organic,Organic,12/29/2022,30.88,Black
+Arunachal Pradesh,Pulses,60647.47,347958.49,Rainfed,Organic,Chemical,7/7/2022,-2.62,Red
+Mizoram,Oilseeds,10375.55,240944.88,Rainfed,Inorganic,Organic,8/9/2022,10.1,Desert
+Manipur,Fruits,31742.93,731291.55,Tube well,Organic,Organic,3/3/2022,-2.84,Red
+Bihar,Millet,34928.57,479700.48,Tube well,Inorganic,Chemical,4/10/2022,3.27,Black
+Arunachal Pradesh,Maize,34707.8,236492.54,Tube well,Organic,Organic,6/10/2022,-10.76,Alluvial
+Tripura,Millet,854.99,198821.6,Drip,Inorganic,Organic,1/23/2022,-36.61,Laterite
+Madhya Pradesh,Wheat,13060.9,154162.55,Sprinkler,Organic,Organic,5/9/2022,-44.7,Black
+Odisha,Sugarcane,66110.12,950358.32,Tube well,Organic,Chemical,7/6/2022,45.99,Red
+Assam,Millet,1770.95,632189.97,Rainfed,Inorganic,Chemical,12/1/2022,-4.94,Desert
+Mizoram,Wheat,98830.11,173048.12,Rainfed,Organic,Organic,1/20/2022,-47.55,Desert
+Madhya Pradesh,Wheat,4705.76,128378.25,Drip,Inorganic,Chemical,1/11/2022,-42.18,Alluvial
+Goa,Vegetables,1396.93,973597.77,Drip,Inorganic,Organic,12/17/2022,15.86,Desert
+Rajasthan,Rice,24201.68,656247.38,Tube well,Organic,Organic,1/5/2022,-30.67,Desert
+Uttar Pradesh,Rice,71951.35,107047.23,Sprinkler,Organic,Chemical,2/5/2022,24.16,Desert
+Mizoram,Rice,5326.74,777062.18,Sprinkler,Organic,Organic,2/3/2022,4.8,Black
+Odisha,Spices,8377.12,466788.69,Tube well,Inorganic,Organic,3/15/2022,-11.43,Black
+Tripura,Rice,35088.09,85046.43,Drip,Organic,Organic,10/11/2022,31.09,Alluvial
+Gujarat,Tea,87609.56,459630.22,Tube well,Inorganic,Organic,9/21/2022,34.01,Desert
+Gujarat,Pulses,13343.25,550998.51,Canal,Organic,Organic,12/30/2022,-0.92,Red
+Haryana,Sugarcane,21016.57,265211.59,Tube well,Inorganic,Chemical,12/14/2022,47.58,Desert
+Maharashtra,Tea,5854.36,911710.65,Tube well,Organic,Organic,7/24/2022,42.41,Red
+Arunachal Pradesh,Coffee,72144.49,714965.05,Drip,Organic,Organic,6/10/2022,4.8,Red
+Bihar,Vegetables,167.33,911993.87,Tube well,Organic,Chemical,7/28/2022,-36.23,Red
+Tamil Nadu,Millet,54517.09,576461.51,Rainfed,Organic,Organic,8/20/2022,-19.34,Black
+Chhattisgarh,Fruits,20815.47,905488.47,Canal,Organic,Chemical,7/11/2022,42.04,Laterite
+Meghalaya,Coffee,11835.26,912100.99,Sprinkler,Organic,Chemical,1/7/2022,3.02,Desert
+Sikkim,Pulses,47392.12,644872.47,Drip,Inorganic,Organic,7/15/2022,43.87,Black
+Punjab,Wheat,87900.99,148561.87,Drip,Organic,Chemical,3/25/2022,15.71,Red
+Assam,Sorghum,43654.32,562710.36,Drip,Inorganic,Chemical,12/28/2022,32.28,Laterite
+Kerala,Pulses,11880.88,456414.59,Drip,Inorganic,Chemical,9/24/2022,34.66,Black
+Nagaland,Barley,25117.98,94639.98,Drip,Organic,Organic,5/23/2022,20.02,Laterite
+Himachal Pradesh,Millet,28576.18,244614.92,Rainfed,Organic,Organic,6/10/2022,47.69,Alluvial
+Nagaland,Cotton,82418.23,636872.3,Sprinkler,Inorganic,Chemical,6/14/2022,-40.0,Red
+Rajasthan,Wheat,37809.15,779444.22,Sprinkler,Inorganic,Chemical,12/18/2022,36.75,Desert
+Meghalaya,Sorghum,26195.49,453548.84,Rainfed,Inorganic,Organic,10/8/2022,-48.94,Alluvial
+Mizoram,Rice,89888.72,767451.65,Canal,Organic,Organic,8/6/2022,-25.37,Desert
+Chhattisgarh,Vegetables,37236.61,921933.94,Sprinkler,Inorganic,Organic,11/13/2022,39.68,Black
+Mizoram,Fruits,23429.88,526650.21,Sprinkler,Organic,Chemical,5/31/2022,8.54,Desert
+Meghalaya,Rice,92156.07,833356.57,Rainfed,Organic,Organic,5/29/2022,14.05,Laterite
+Kerala,Millet,93863.75,432508.4,Tube well,Organic,Organic,11/21/2022,-3.59,Black
+Uttarakhand,Sugarcane,57335.25,365078.41,Sprinkler,Inorganic,Organic,3/19/2022,33.46,Desert
+Maharashtra,Cotton,74136.49,662256.29,Canal,Organic,Organic,10/26/2022,-25.59,Red
+Maharashtra,Oilseeds,32050.59,578735.32,Sprinkler,Inorganic,Chemical,3/18/2022,-27.34,Red
+Himachal Pradesh,Spices,13802.22,422639.14,Sprinkler,Organic,Organic,9/21/2022,41.36,Black
+Gujarat,Oilseeds,30690.17,789490.11,Rainfed,Organic,Chemical,12/30/2022,47.38,Red
+Tripura,Spices,72011.11,781095.95,Sprinkler,Inorganic,Chemical,9/2/2022,-14.36,Red
+Madhya Pradesh,Barley,94044.66,382763.15,Tube well,Organic,Chemical,9/5/2022,-21.54,Black
+West Bengal,Sugarcane,13837.19,390664.87,Sprinkler,Organic,Organic,8/9/2022,29.34,Desert
+Sikkim,Millet,61490.55,498051.19,Drip,Inorganic,Chemical,6/25/2022,45.77,Black
+Arunachal Pradesh,Spices,37734.6,369365.14,Rainfed,Inorganic,Chemical,11/27/2022,5.18,Black
+Mizoram,Spices,64939.0,743071.89,Sprinkler,Inorganic,Chemical,7/9/2022,21.35,Alluvial
+Uttar Pradesh,Oilseeds,26066.96,893299.81,Sprinkler,Organic,Organic,7/5/2022,-34.7,Laterite
+Chhattisgarh,Millet,42801.07,81196.06,Canal,Inorganic,Chemical,11/4/2022,0.32,Red
+Himachal Pradesh,Spices,88505.1,252966.17,Rainfed,Inorganic,Organic,1/24/2022,35.94,Red
+Nagaland,Sugarcane,65913.08,636004.18,Drip,Inorganic,Organic,8/31/2022,12.56,Red
+Arunachal Pradesh,Sorghum,26941.3,316891.69,Drip,Inorganic,Organic,11/17/2022,47.84,Red
+Maharashtra,Cotton,32437.0,768352.18,Canal,Inorganic,Organic,11/10/2022,26.19,Red
+Sikkim,Spices,28950.12,271151.47,Sprinkler,Inorganic,Chemical,7/1/2022,33.53,Black
+Mizoram,Cotton,96803.36,299264.33,Tube well,Inorganic,Chemical,3/14/2022,-35.74,Desert
+Kerala,Tea,76249.35,473082.22,Sprinkler,Organic,Organic,12/23/2022,16.35,Black
+Manipur,Pulses,666.16,913882.51,Tube well,Inorganic,Organic,11/3/2022,-46.56,Red
+Mizoram,Coffee,25353.98,975416.73,Drip,Organic,Chemical,7/3/2022,-26.79,Red
+Jharkhand,Sorghum,25886.76,216498.12,Drip,Inorganic,Chemical,10/29/2022,6.97,Alluvial
+Arunachal Pradesh,Barley,7132.45,296792.47,Canal,Organic,Chemical,11/18/2022,-24.01,Laterite
+Mizoram,Fruits,3972.63,721851.58,Sprinkler,Organic,Chemical,2/5/2022,-41.44,Red
+Nagaland,Vegetables,4220.63,371506.24,Tube well,Inorganic,Organic,5/5/2022,-23.18,Desert
+Gujarat,Cotton,47889.56,34680.83,Canal,Inorganic,Organic,6/1/2022,-14.9,Desert
+Kerala,Maize,58566.43,348049.71,Tube well,Inorganic,Chemical,1/5/2022,-22.21,Desert
+Sikkim,Pulses,39428.47,350309.3,Drip,Inorganic,Organic,1/28/2022,1.36,Red
+West Bengal,Sorghum,37107.94,52631.22,Drip,Inorganic,Chemical,1/4/2022,-6.78,Desert
+Tripura,Cotton,42698.32,156601.14,Canal,Inorganic,Chemical,10/14/2022,-3.8,Laterite
+Andhra Pradesh,Wheat,76849.86,312443.61,Sprinkler,Organic,Chemical,4/25/2022,14.69,Black
+Tripura,Sugarcane,6699.07,31835.84,Canal,Inorganic,Chemical,1/23/2022,-36.33,Laterite
+Karnataka,Fruits,81718.35,648747.05,Canal,Organic,Organic,7/15/2022,16.96,Laterite
+Madhya Pradesh,Maize,13778.94,711789.4,Tube well,Organic,Organic,4/23/2022,20.76,Desert
+Tamil Nadu,Fruits,89004.05,925112.78,Sprinkler,Organic,Chemical,6/14/2022,6.19,Desert
+Rajasthan,Oilseeds,77684.3,769719.8,Tube well,Organic,Chemical,6/22/2022,-1.19,Red
+Odisha,Coffee,33311.32,126985.02,Drip,Inorganic,Chemical,3/25/2022,9.78,Desert
+Andhra Pradesh,Wheat,25528.01,763025.17,Drip,Organic,Organic,10/14/2022,40.41,Red
+Uttarakhand,Sorghum,99257.26,295680.74,Canal,Organic,Organic,10/13/2022,21.58,Alluvial
+Arunachal Pradesh,Spices,25376.11,428442.35,Sprinkler,Organic,Organic,11/17/2022,-6.79,Laterite
+Punjab,Maize,30638.81,218715.56,Sprinkler,Organic,Organic,5/15/2022,-38.05,Alluvial
+Nagaland,Coffee,86581.51,157000.9,Sprinkler,Inorganic,Chemical,3/4/2022,48.16,Red
+Himachal Pradesh,Rice,42221.56,269533.08,Drip,Organic,Organic,11/29/2022,-34.86,Black
+Kerala,Fruits,38168.71,403181.23,Canal,Organic,Organic,5/21/2022,37.76,Laterite
+Maharashtra,Barley,18596.43,848005.14,Canal,Inorganic,Chemical,2/2/2022,-5.95,Black
+Meghalaya,Tea,39382.91,172443.93,Drip,Inorganic,Organic,4/9/2022,-43.28,Black
+Tripura,Tea,86893.17,678538.52,Tube well,Inorganic,Chemical,8/2/2022,8.46,Red
+West Bengal,Tea,1277.82,141487.84,Drip,Organic,Chemical,4/25/2022,22.22,Laterite
+Odisha,Wheat,15528.73,386236.01,Drip,Inorganic,Chemical,1/24/2022,20.46,Laterite
+Arunachal Pradesh,Wheat,40632.12,216742.92,Drip,Inorganic,Organic,8/2/2022,6.92,Laterite
+Bihar,Vegetables,48788.79,379635.92,Drip,Inorganic,Chemical,7/30/2022,-38.94,Red
+Arunachal Pradesh,Sorghum,49619.32,487596.79,Drip,Organic,Organic,3/29/2022,14.92,Red
+Gujarat,Wheat,80692.9,142289.05,Canal,Inorganic,Organic,10/14/2022,25.12,Red
+Manipur,Tea,30880.36,108525.07,Tube well,Organic,Chemical,6/5/2022,-16.16,Black
+Manipur,Spices,69322.91,310897.15,Sprinkler,Organic,Organic,8/7/2022,2.43,Red
+Jharkhand,Tea,73647.16,659954.96,Sprinkler,Inorganic,Organic,6/7/2022,7.31,Laterite
+Kerala,Millet,56492.09,463459.04,Rainfed,Organic,Organic,9/17/2022,26.88,Red
+Chhattisgarh,Pulses,24957.64,156807.1,Drip,Inorganic,Chemical,1/30/2022,-39.01,Black
+Meghalaya,Spices,76036.96,339256.82,Canal,Organic,Organic,7/13/2022,21.65,Desert
+Nagaland,Pulses,15625.98,662852.78,Rainfed,Organic,Chemical,11/1/2022,42.0,Desert
+Arunachal Pradesh,Spices,55630.68,707277.1,Canal,Organic,Chemical,11/26/2022,19.9,Red
+Kerala,Cotton,74522.18,90065.62,Rainfed,Organic,Organic,3/19/2022,-31.67,Alluvial
+Meghalaya,Pulses,80415.35,622770.75,Rainfed,Organic,Chemical,12/10/2022,-27.2,Alluvial
+Telangana,Sugarcane,66680.92,667318.3,Rainfed,Organic,Chemical,9/29/2022,46.59,Red
+Meghalaya,Tea,36596.73,132682.51,Tube well,Inorganic,Chemical,8/3/2022,-9.39,Alluvial
+Bihar,Maize,88293.31,648009.71,Sprinkler,Organic,Chemical,9/14/2022,-16.71,Black
+Sikkim,Fruits,64037.69,809880.38,Canal,Inorganic,Chemical,3/12/2022,-24.63,Alluvial
+Mizoram,Vegetables,65523.31,582122.93,Sprinkler,Organic,Organic,6/2/2022,-35.06,Alluvial
+Goa,Coffee,33622.07,229548.7,Rainfed,Organic,Organic,5/7/2022,-23.04,Desert
+Chhattisgarh,Sugarcane,78431.19,772450.83,Canal,Organic,Chemical,12/9/2022,-16.76,Desert
+Madhya Pradesh,Millet,6457.55,894101.69,Drip,Organic,Organic,5/15/2022,2.51,Laterite
+Chhattisgarh,Barley,44811.68,652971.22,Sprinkler,Organic,Chemical,8/6/2022,42.66,Red
+Karnataka,Fruits,23852.88,349966.61,Rainfed,Inorganic,Organic,8/6/2022,-4.15,Laterite
+Uttarakhand,Sugarcane,10903.43,31491.96,Rainfed,Inorganic,Organic,8/3/2022,30.03,Laterite
+Punjab,Cotton,25965.89,617624.04,Canal,Inorganic,Organic,12/9/2022,13.07,Alluvial
+Uttar Pradesh,Spices,83565.79,571708.4,Drip,Inorganic,Chemical,7/29/2022,31.97,Black
+Andhra Pradesh,Pulses,46420.66,626767.49,Canal,Inorganic,Chemical,10/29/2022,-40.24,Desert
+Rajasthan,Wheat,76137.12,125029.51,Rainfed,Organic,Chemical,5/3/2022,31.68,Black
+Uttar Pradesh,Sugarcane,58728.99,966424.72,Canal,Organic,Organic,1/16/2022,-49.74,Black
+Karnataka,Barley,44150.77,822303.8,Tube well,Inorganic,Chemical,7/31/2022,37.12,Red
+Bihar,Barley,24854.66,448151.83,Drip,Organic,Organic,1/22/2022,-43.73,Laterite
+Arunachal Pradesh,Oilseeds,58606.45,267416.29,Sprinkler,Inorganic,Chemical,10/6/2022,23.19,Alluvial
+Assam,Millet,84590.0,979827.2,Rainfed,Inorganic,Chemical,5/29/2022,42.85,Laterite
+Mizoram,Coffee,48126.3,288458.47,Canal,Organic,Chemical,6/22/2022,38.1,Desert
+Tripura,Sorghum,11275.24,811502.25,Drip,Organic,Chemical,6/3/2022,43.57,Red
+Telangana,Sugarcane,60830.99,334261.68,Canal,Organic,Chemical,2/15/2022,39.11,Laterite
+Assam,Barley,29459.26,74475.7,Rainfed,Organic,Organic,9/15/2022,47.11,Laterite
+Maharashtra,Vegetables,70630.42,808128.24,Canal,Organic,Chemical,2/1/2022,37.64,Laterite
+Andhra Pradesh,Maize,99539.73,499968.56,Canal,Organic,Organic,12/6/2022,-9.41,Desert
+Gujarat,Spices,21907.23,208571.86,Tube well,Inorganic,Chemical,6/6/2022,-19.75,Red
+Rajasthan,Spices,4413.35,343541.77,Rainfed,Organic,Chemical,8/2/2022,18.88,Desert
+Tamil Nadu,Tea,6786.42,409064.42,Sprinkler,Organic,Organic,9/24/2022,37.11,Red
+Goa,Fruits,3679.39,663774.18,Drip,Inorganic,Organic,3/23/2022,-36.94,Black
+Manipur,Coffee,61456.84,374887.17,Drip,Inorganic,Organic,2/4/2022,12.43,Black
+Meghalaya,Millet,70469.4,461230.78,Rainfed,Organic,Organic,2/23/2022,20.26,Desert
+Maharashtra,Sorghum,72949.05,781450.17,Drip,Inorganic,Chemical,9/27/2022,14.91,Red
+Kerala,Tea,74714.23,445026.79,Tube well,Organic,Organic,12/28/2022,-46.61,Red
+Andhra Pradesh,Maize,13144.79,129197.07,Drip,Inorganic,Chemical,8/15/2022,-4.87,Black
+Chhattisgarh,Maize,53282.77,307827.3,Canal,Inorganic,Chemical,2/15/2022,24.11,Alluvial
+Tripura,Cotton,45335.54,355180.78,Drip,Organic,Chemical,1/28/2022,23.53,Red
+Tripura,Coffee,86682.87,741146.66,Drip,Inorganic,Chemical,7/17/2022,-48.05,Black
+Chhattisgarh,Vegetables,67591.75,735118.11,Drip,Inorganic,Organic,12/25/2022,-5.33,Laterite
+Arunachal Pradesh,Barley,97197.71,69206.8,Rainfed,Inorganic,Organic,4/21/2022,41.26,Desert
+Maharashtra,Wheat,59176.27,836560.64,Drip,Inorganic,Chemical,1/19/2022,43.72,Desert
+Arunachal Pradesh,Maize,26150.07,246792.24,Rainfed,Inorganic,Chemical,4/6/2022,-20.34,Red
+Tamil Nadu,Tea,87750.47,211131.43,Tube well,Organic,Organic,8/8/2022,-11.85,Desert
+West Bengal,Tea,47202.43,712510.04,Sprinkler,Inorganic,Chemical,5/2/2022,-28.1,Black
+Haryana,Barley,61463.19,631124.01,Drip,Organic,Chemical,6/29/2022,34.99,Laterite
+Meghalaya,Pulses,72241.25,290196.16,Drip,Organic,Organic,1/27/2022,-22.04,Desert
+Nagaland,Pulses,47519.17,715908.67,Rainfed,Inorganic,Organic,3/22/2022,-21.99,Alluvial
+Gujarat,Pulses,27020.63,855384.32,Drip,Organic,Chemical,5/1/2022,46.28,Desert
+Gujarat,Sugarcane,38127.78,449661.4,Tube well,Inorganic,Organic,6/9/2022,-10.25,Laterite
+Gujarat,Cotton,22394.22,499677.26,Sprinkler,Inorganic,Chemical,5/22/2022,-38.57,Desert
+Bihar,Millet,48640.97,908270.61,Sprinkler,Organic,Chemical,2/4/2022,0.26,Red
+Bihar,Pulses,92744.13,871027.19,Canal,Organic,Chemical,6/1/2022,-23.94,Laterite
+Meghalaya,Sugarcane,20050.79,67252.23,Drip,Organic,Chemical,2/10/2022,-8.94,Alluvial
+Odisha,Wheat,16175.35,137118.1,Drip,Inorganic,Chemical,3/6/2022,27.49,Red
+Gujarat,Sorghum,35797.91,979054.99,Tube well,Organic,Chemical,2/8/2022,6.12,Laterite
+Sikkim,Cotton,83778.08,123389.87,Rainfed,Inorganic,Chemical,9/23/2022,-11.14,Red
+Mizoram,Sorghum,44806.41,110060.39,Drip,Inorganic,Chemical,10/6/2022,-35.51,Black
+Meghalaya,Vegetables,93185.36,94866.26,Tube well,Inorganic,Chemical,5/21/2022,21.12,Desert
+Arunachal Pradesh,Coffee,36184.11,865056.79,Sprinkler,Inorganic,Chemical,11/26/2022,22.41,Desert
+Bihar,Pulses,65560.57,613777.87,Tube well,Inorganic,Organic,6/5/2022,8.38,Black
+Haryana,Millet,98968.49,581670.89,Canal,Organic,Organic,8/2/2022,-19.03,Laterite
+Arunachal Pradesh,Oilseeds,31360.49,764272.14,Canal,Inorganic,Chemical,11/13/2022,36.57,Black
+Punjab,Sorghum,13023.43,828565.82,Drip,Inorganic,Chemical,8/1/2022,14.9,Alluvial
+Telangana,Barley,14238.67,312295.09,Tube well,Organic,Organic,12/14/2022,41.3,Laterite
+Mizoram,Sorghum,42140.96,696707.46,Rainfed,Organic,Chemical,4/20/2022,-29.05,Alluvial
+Chhattisgarh,Maize,25854.22,923860.72,Canal,Inorganic,Organic,1/20/2022,3.28,Alluvial
+Chhattisgarh,Sugarcane,40641.51,46820.09,Tube well,Inorganic,Chemical,3/16/2022,36.08,Red
+Himachal Pradesh,Sorghum,31471.21,684982.54,Drip,Inorganic,Chemical,7/6/2022,-42.28,Laterite
+Rajasthan,Millet,82044.4,176976.28,Rainfed,Inorganic,Organic,6/5/2022,-45.91,Alluvial
+Meghalaya,Cotton,54830.32,158451.18,Canal,Organic,Organic,4/13/2022,3.35,Black
+West Bengal,Pulses,86726.99,654131.74,Sprinkler,Inorganic,Organic,3/22/2022,44.77,Alluvial
+Manipur,Barley,43739.89,208046.66,Tube well,Inorganic,Chemical,1/12/2022,3.76,Red
+West Bengal,Pulses,11621.17,193332.37,Sprinkler,Inorganic,Chemical,11/5/2022,40.64,Laterite
+Chhattisgarh,Cotton,65589.07,927244.15,Tube well,Inorganic,Organic,10/19/2022,-37.3,Alluvial
+Rajasthan,Cotton,46517.13,719061.01,Tube well,Inorganic,Chemical,7/24/2022,46.21,Red
+Tripura,Rice,50331.6,980980.99,Sprinkler,Inorganic,Chemical,5/28/2022,-44.71,Desert
+Jharkhand,Millet,58257.75,657105.55,Sprinkler,Organic,Organic,2/2/2022,-47.51,Laterite
+Uttar Pradesh,Barley,8989.63,723338.0,Drip,Organic,Organic,10/22/2022,42.29,Laterite
+Rajasthan,Rice,62696.32,560928.33,Canal,Organic,Chemical,1/9/2022,27.4,Red
+Chhattisgarh,Sorghum,90384.08,398706.06,Canal,Organic,Organic,8/31/2022,0.57,Red
+Arunachal Pradesh,Fruits,4782.21,513274.55,Rainfed,Organic,Organic,4/2/2022,-47.82,Laterite
+Himachal Pradesh,Pulses,75631.66,572870.58,Rainfed,Inorganic,Chemical,7/26/2022,-3.6,Desert
+Rajasthan,Coffee,48102.34,75226.96,Tube well,Inorganic,Chemical,5/10/2022,9.61,Red
+Andhra Pradesh,Millet,24501.34,621402.68,Canal,Organic,Organic,9/1/2022,-30.05,Alluvial
+West Bengal,Wheat,33922.45,42304.38,Drip,Inorganic,Organic,10/23/2022,25.0,Black
+Haryana,Coffee,77689.09,397667.81,Canal,Inorganic,Organic,3/21/2022,-39.76,Alluvial
+Mizoram,Vegetables,33439.22,511675.68,Canal,Inorganic,Chemical,7/28/2022,-20.67,Desert
+Uttar Pradesh,Maize,52627.43,687230.91,Tube well,Inorganic,Chemical,12/17/2022,47.81,Red
+Rajasthan,Rice,71667.37,505784.86,Sprinkler,Organic,Organic,1/29/2022,38.79,Red
+Sikkim,Coffee,2656.2,91565.96,Canal,Inorganic,Organic,3/24/2022,44.08,Red
+Manipur,Wheat,63896.02,937148.24,Rainfed,Organic,Organic,1/22/2022,21.85,Black
+Jharkhand,Sorghum,77378.8,4396.02,Tube well,Organic,Organic,8/18/2022,8.22,Red
+Sikkim,Wheat,26555.79,626520.64,Sprinkler,Organic,Chemical,8/12/2022,26.87,Red
+Goa,Fruits,52824.24,806379.93,Tube well,Inorganic,Chemical,5/27/2022,-45.28,Black
+Goa,Coffee,75709.26,826123.48,Drip,Organic,Chemical,7/18/2022,44.67,Laterite
+Punjab,Barley,67518.52,584063.15,Tube well,Inorganic,Chemical,8/1/2022,-5.4,Red
+Goa,Pulses,26007.44,430753.92,Tube well,Inorganic,Chemical,10/13/2022,-33.07,Red
+Arunachal Pradesh,Vegetables,43789.13,685281.32,Tube well,Organic,Chemical,7/13/2022,16.85,Alluvial
+Punjab,Vegetables,98342.5,801313.94,Tube well,Inorganic,Chemical,12/26/2022,-37.67,Laterite
+Telangana,Sorghum,17940.61,245422.78,Rainfed,Organic,Chemical,12/2/2022,-1.05,Black
+Karnataka,Spices,92534.13,390637.96,Drip,Organic,Organic,5/9/2022,18.34,Desert
+Chhattisgarh,Sugarcane,65547.93,782740.97,Drip,Inorganic,Chemical,3/20/2022,27.51,Alluvial
+Gujarat,Spices,64471.33,254049.97,Tube well,Organic,Organic,10/12/2022,-5.09,Red
+Arunachal Pradesh,Sugarcane,26913.0,933881.38,Rainfed,Organic,Organic,10/31/2022,-31.57,Laterite
+Meghalaya,Pulses,28275.89,312222.26,Tube well,Inorganic,Chemical,12/28/2022,33.9,Laterite
+Goa,Spices,13907.58,190911.82,Tube well,Inorganic,Chemical,11/11/2022,-32.0,Laterite
+Madhya Pradesh,Sorghum,4994.18,921787.73,Canal,Organic,Chemical,2/2/2022,-21.76,Alluvial
+Meghalaya,Pulses,18848.81,382731.93,Drip,Organic,Chemical,11/16/2022,31.41,Laterite
+Kerala,Tea,83541.68,734647.19,Canal,Inorganic,Chemical,2/1/2022,48.01,Red
+Chhattisgarh,Fruits,60233.91,823428.11,Canal,Inorganic,Organic,7/2/2022,49.66,Red
+Uttar Pradesh,Coffee,73954.07,144331.49,Sprinkler,Inorganic,Organic,10/11/2022,-35.63,Alluvial
+Rajasthan,Tea,38158.77,811828.97,Canal,Organic,Chemical,1/9/2022,-12.77,Desert
+Meghalaya,Maize,85935.38,578018.97,Drip,Inorganic,Chemical,1/26/2022,23.69,Desert
+Mizoram,Sorghum,15012.66,252785.64,Rainfed,Inorganic,Organic,5/29/2022,13.25,Desert
+Tamil Nadu,Coffee,77191.4,531723.19,Rainfed,Organic,Organic,2/15/2022,27.29,Desert
+Assam,Pulses,51640.98,823985.63,Canal,Inorganic,Organic,4/20/2022,8.38,Red
+Meghalaya,Millet,56406.31,592625.26,Drip,Inorganic,Chemical,8/3/2022,-21.05,Laterite
+Tamil Nadu,Vegetables,37082.34,354277.07,Tube well,Organic,Chemical,1/10/2022,-30.0,Laterite
+Mizoram,Wheat,51200.53,702261.45,Drip,Inorganic,Chemical,9/4/2022,-22.13,Desert
+Assam,Tea,76514.39,622755.07,Drip,Organic,Chemical,8/31/2022,-38.51,Laterite
+Manipur,Rice,88974.48,509179.23,Rainfed,Organic,Chemical,8/11/2022,9.6,Desert
+Tamil Nadu,Spices,84624.51,647177.62,Canal,Inorganic,Organic,2/25/2022,32.01,Laterite
+Chhattisgarh,Spices,13283.15,671776.24,Tube well,Organic,Chemical,4/4/2022,-16.85,Alluvial
+Nagaland,Pulses,39039.89,437213.81,Drip,Inorganic,Chemical,2/15/2022,32.32,Black
+Goa,Maize,236.62,217287.79,Drip,Organic,Organic,4/20/2022,-48.87,Desert
+Tripura,Maize,86730.0,138398.71,Sprinkler,Organic,Chemical,12/27/2022,28.98,Laterite
+Chhattisgarh,Rice,47535.06,908846.09,Tube well,Organic,Chemical,7/2/2022,41.16,Red
+Chhattisgarh,Sugarcane,37558.14,409054.26,Tube well,Inorganic,Chemical,10/16/2022,-30.11,Red
+Tripura,Fruits,79329.93,210523.99,Drip,Inorganic,Organic,12/13/2022,31.75,Laterite
+West Bengal,Wheat,19537.82,240933.53,Tube well,Organic,Chemical,4/7/2022,36.54,Black
+Manipur,Millet,90794.46,711684.51,Canal,Organic,Chemical,1/21/2022,41.27,Desert
+Haryana,Sorghum,13276.35,512485.14,Canal,Inorganic,Chemical,10/7/2022,31.17,Alluvial
+Punjab,Maize,708.08,390788.78,Rainfed,Inorganic,Chemical,5/13/2022,35.66,Alluvial
+Goa,Tea,30471.18,50028.59,Tube well,Inorganic,Organic,8/14/2022,-8.3,Alluvial
+Nagaland,Sorghum,73741.16,448076.65,Canal,Organic,Organic,7/11/2022,-16.4,Black
+Nagaland,Cotton,15490.37,802574.92,Tube well,Inorganic,Chemical,4/24/2022,-13.6,Red
+Goa,Coffee,39882.18,466005.53,Canal,Inorganic,Chemical,5/6/2022,-38.12,Desert
+Andhra Pradesh,Cotton,57235.27,361651.11,Sprinkler,Organic,Organic,1/30/2022,-49.75,Red
+Chhattisgarh,Coffee,12090.42,502700.69,Rainfed,Organic,Organic,3/28/2022,45.1,Red
+Himachal Pradesh,Sorghum,51267.38,700943.07,Drip,Inorganic,Chemical,9/22/2022,23.14,Black
+Goa,Spices,73960.05,354536.37,Canal,Organic,Chemical,6/5/2022,5.81,Black
+Kerala,Cotton,4943.34,787899.43,Tube well,Inorganic,Organic,6/24/2022,18.23,Red
+Tamil Nadu,Wheat,1528.69,564710.57,Tube well,Organic,Chemical,6/25/2022,27.67,Red
